@@ -3,3 +3,4 @@ node_modules
 *.db
 *.save
 bot.py
+.DS_Store
